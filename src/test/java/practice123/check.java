@@ -7,8 +7,7 @@ public class check
 	{
 
 		
-		
-		
+		System.out.print("hello");		
 		
 		
 		
