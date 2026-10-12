@@ -1,0 +1,22 @@
+{
+  localStorage: {
+    theme: 'dark',
+    'csa-tabbed-browsing': '{"lastActive":{"visible":true,"pid":"dqhf4t-fjjuiq-sqdq80-2vhd2","tid":"dqhf4t-fjjuiq-sqdq80-2vhd2","ent":{"rid":"NNJ3M9ET5141V2E6GES1","ety":"exports-gateway-desktop","esty":"desktop"}},"lastInteraction":{},"time":1791844417934,"initialized":true}',
+    'csm-bf': '["NNJ3M9ET5141V2E6GES1"]',
+    'a-font-class': 'a-ember a-ember-1-0-0 a-ember-modern-display a-ember-modern-display-1-0-1 a-ember-modern-text a-ember-modern-text-1-0-1 a-ember-modern',
+    'csa-ctoken-NNJ3M9ET5141V2E6GES1': '1791848017930',
+    'csm:adb': 'adblk_no',
+    'csm-hit': 'tb:s-NNJ3M9ET5141V2E6GES1|1791844417327&t:1791844417984&adb:adblk_no',
+    rx: 'APtidne0hP2/TL/1D8QIcBV78w59c3pmyct7nyj4359aA/rTZmqiII2lZbXvWGcCa9XPxb6QIWQuLemo9t8coLtWxOL67byksxEC38yVESrPOaWtMYyn1kmwYpuFdS+xzFms8UYT+TsJd1xSSee0/trTHVj+mzDqMSqVQisRjqkl+8avly3kmBJADf33mfXoylVuM6Gy/i0bpgO4LDOItVeAAZLUXbID/YP2RDNZVV7LCzPWVG48EwmQwCfnZqz24gaRfzUzg5xXTwDjoMob20f9LLr6RxAMGsHLu1AzpO7OlOUVFgxy9qXlcq42Y19ta6KST7NhG1jfNXaj4b8xqsEsU+3H9+WAzrzWVp+WGxGPu2DnlydePnaKpPkF7rJ6J71xNuVgm5W/3XLHWGoaj3RE2/k8t5GmHNmZF8Cv',
+    language: 'English',
+    'rx-pnt': '1791844416|1'
+  },
+  sessionStorage: {
+    CSM_previousURL: 'https://www.amazon.com/',
+    csmtid: 'NNJ3M9ET5141V2E6GES1',
+    'csa-tabbed-browsing': '{"pid":"dqhf4t-fjjuiq-sqdq80-2vhd2","tid":"dqhf4t-fjjuiq-sqdq80-2vhd2","ent":{"rid":"NNJ3M9ET5141V2E6GES1","ety":"exports-gateway-desktop","esty":"desktop"},"lastInteraction":{},"initialized":true}',
+    NNJ3M9ET5141V2E6GES1: '1',
+    searchItem: 'Laptop',
+    category: 'Electronics'
+  }
+}

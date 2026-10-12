@@ -1,0 +1,4 @@
+{
+  localStorage: { language: 'English', theme: 'dark' },
+  sessionStorage: { searchItem: 'Laptop', category: 'Electronics' }
+}
