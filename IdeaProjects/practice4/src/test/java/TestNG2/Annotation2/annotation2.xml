@@ -1,0 +1,17 @@
+<suite name="Suite">
+    <test name="Test1">
+        <classes>
+            <class name="TestNG2.Annotation2.c1"/>
+            <class name="TestNG2.Annotation2.c2"/>
+            <class name="TestNG2.Annotation2.c3"/>        </classes>
+    </test>
+    <!--  Test  -->
+    <test name="Test2">
+        <classes>
+            <class name="TestNG2.Annotation2.c1"/>
+            <class name="TestNG2.Annotation2.c2"/>
+            <class name="TestNG2.Annotation2.c3"/>
+        </classes>
+    </test>
+    <!--  Test  -->
+</suite>

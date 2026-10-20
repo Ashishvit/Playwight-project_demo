@@ -1,0 +1,8 @@
+<suite name="mysuite">
+    <test name="my tests">
+        <classes>
+            <class name="TestNG.testDemo"/>
+            <class name="TestNG.orangeHRM"/>
+        </classes>
+    </test>
+</suite>

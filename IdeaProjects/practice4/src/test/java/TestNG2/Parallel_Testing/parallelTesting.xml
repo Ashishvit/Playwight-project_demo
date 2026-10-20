@@ -1,0 +1,27 @@
+<suite thread-count="2" name="Suite" parallel="tests">
+    <test name="chrometest">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="url" value="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"/>
+        <classes>
+            <class name="TestNG2.Parallel_Testing.parallel_test"/>
+        </classes>
+    </test>
+    <!--  Test  -->
+    <test name="edgetest">
+        <parameter name="browser" value="edge"/>
+        <parameter name="url" value="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"/>
+        <classes>
+            <class name="TestNG2.Parallel_Testing.parallel_test"/>
+        </classes>
+    </test>
+    <!--  Test  -->
+    <test name="firefoxtest">
+        <parameter name="url" value="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"/>
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="TestNG2.Parallel_Testing.parallel_test"/>
+        </classes>
+    </test>
+    <!--  Test  -->
+</suite>
+        <!--  Suite  -->
